@@ -37,6 +37,29 @@ import_script/path=""
 materials/extract=0
 materials/extract_format=0
 materials/extract_path=""
-_subresources={}
+_subresources={
+"materials": {
+"door": {
+"use_external/enabled": true,
+"use_external/fallback_path": "res://enviroment/materials/door.tres",
+"use_external/path": "uid://wdnpy4mcs71x"
+},
+"roof": {
+"use_external/enabled": true,
+"use_external/fallback_path": "res://enviroment/materials/roof.tres",
+"use_external/path": "uid://bv60x5l1m3jfc"
+},
+"window": {
+"use_external/enabled": true,
+"use_external/fallback_path": "res://enviroment/materials/window.tres",
+"use_external/path": "uid://be3qkr74fgpdf"
+},
+"wood": {
+"use_external/enabled": true,
+"use_external/fallback_path": "res://enviroment/materials/wood.tres",
+"use_external/path": "uid://cyyca8dh7vai"
+}
+}
+}
 gltf/naming_version=2
 gltf/embedded_image_handling=1

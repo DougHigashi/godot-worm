@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://bv60x5l1m3jfc"]
+
+[ext_resource type="Texture2D" uid="uid://bw1kaurt530pt" path="res://enviroment/raw_assets/shed_roof.png" id="1_kg5rt"]
+
+[resource]
+resource_name = "roof"
+cull_mode = 2
+albedo_texture = ExtResource("1_kg5rt")
+roughness = 0.5
+emission_enabled = true
+texture_filter = 0
