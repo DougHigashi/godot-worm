@@ -1,0 +1,11 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://wdnpy4mcs71x"]
+
+[ext_resource type="Texture2D" uid="uid://dct8jevumbgxn" path="res://enviroment/raw_assets/shed_door.png" id="1_ay0y7"]
+
+[resource]
+resource_name = "door"
+cull_mode = 2
+albedo_texture = ExtResource("1_ay0y7")
+roughness = 0.5
+emission_enabled = true
+texture_filter = 0
