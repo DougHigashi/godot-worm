@@ -6,5 +6,6 @@
 resource_name = "window"
 cull_mode = 2
 albedo_texture = ExtResource("1_hsqw2")
+metallic_specular = 0.0
 roughness = 0.5
 texture_filter = 0

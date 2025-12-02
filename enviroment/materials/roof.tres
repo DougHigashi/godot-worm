@@ -6,6 +6,6 @@
 resource_name = "roof"
 cull_mode = 2
 albedo_texture = ExtResource("1_kg5rt")
+metallic_specular = 0.0
 roughness = 0.5
-emission_enabled = true
 texture_filter = 0
